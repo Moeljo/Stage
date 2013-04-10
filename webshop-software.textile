@@ -1,0 +1,458 @@
+h3. Webshop software
+
+<table>
+<tr>
+<td> Website </td>
+<td> Ideal </td>
+<td> SAP </td>
+<td> Multi order </td>
+<td> Reorder </td>
+<td> Prijs </td>
+<td> Links </td>
+<td> Opmerking </td>
+</tr>
+<tr>
+<td> shopify </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$29,- per maand.
+100 producten.
+
+$59,- per maand. 
+2.500 producten. </td>
+<td> 
+Ideal,
+<a href="http://apps.shopify.com/epg">Ideal koppeling</a>
+
+SAP,
+<a href="http://www.orbis-software.com/solutions/shopify-sap-business-one-integration.php">SAP koppeling</a>
+
+multi order,
+<a href="http://tattly.com/">Multi order koppeling</a>
+
+reoder,
+Aanvullende informatie 
+is te vinden in het shopify document.
+ </td>
+<td> 
+Werkt via een liquid template, dat HTML en CSS hanteert.
+
+hebben we eerder mee gewerkt.
+
+Voldoet aan alle eisen. 
+</tr>
+<tr>
+<td> x-cart </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$29.95,- per maand.
+100 producten.
+
+$99.95,- per maand. 
+5000 producten.
+</td>
+<td> 
+Ideal,
+<a href="http://help.x-cart.com/index.php?title=X-Cart:Payment_gateways_(X-Cart_4.5)">Ideal koppeling</a>
+
+SAP,
+<a href="http://www.b1works.com/TaskCentre-X-CART.asp">SAP koppeling1</a>
+<a href="http://www.orbis-software.com/solutions/x-cart-integration.php">SAP koppeling2</a>
+
+reorder,
+<a href="http://marketplace.x-cart.com/addons-modules/ordering/Re-order-mod-for-X-cart-reorder">reorder koppeling</a>
+</td>
+<td> 
+rijs schijnt 99 dollar per maand te zijn, maar er zijn ook eenmalige kosten vermeld die neer komt op $395,- eenmalig. kunnen worden.
+<a href="http://help.x-cart.com/index.php?title=X-Cart:Payment_gateways_(X-Cart_4.5)">extra kosten</a>
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+
+Voldoet aan alle eisen.
+</td>
+</tr>
+<tr>
+<td> prestashop </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+Is gratis software. Als we echter de webshop willen maken naar onze wensen, dan moet er wel wat gekocht worden.
+</td>
+<td> 
+Geen standaard ideal maar wel skrill koppeling,
+<a href="http://www.prestashop.com/en/set-up-payment-module">Skrill koppeling</a>
+
+Ideal light,
+<a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/2542-rabobank-ideal-lite-for-prestashop-14.html">Ideal koppeling</a>
+
+SAP koppeling,
+<a href="http://www.orbis-software.com/solutions/Prestashop-SAP-Integration.php">SAP koppeling</a>
+
+reoder,
+<a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/394-shopping-list-re-order.html">Reorder koppeling</a>
+</td>
+<td> 
+Open-source software, dus levert veel vrijheid op qua ontwerp. 
+
+Bied gratis 310 features,alleen diegene die wij willen hanteren kosten geld.
+
+Voldoet aan alle eisen.
+
+Is waarschijnlijk de goedkoopste oplossing. Houd alleen wel rekening met mogelijke kosten voor specifieke features.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden. 
+</td>
+</tr>
+<tr>
+<td> cs-cart </td>
+<td> √ </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$345,- eenmalig.
+proffesional
+
+$985,- eenmalig.
+multi-vendor.
+</td>
+<td> 
+ING ideal,
+<a href="http://www.cs-cart.com/payment-systems.html">Ideal koppeling</a>
+
+reoder,
+<a href="http://cscart.uservoice.com/forums/40782-professional/suggestions/2467864-reorder-an-order-history-or-whishlist-to-cart-or-t">Reorder koppeling</a>
+</td>
+<td> 
+Unieke website wordt al lastiger, omdat de opbouw van cs-cart websites wel standaard zijn.
+
+Wel goedkoop.
+
+Multiorder is mogelijk op de productpagina, dus zal ook wel op andere pagina's geïntegreerd kunnen worden.
+</td>
+</tr>
+<tr>
+<td> 3dcart </td>
+<td> X </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$65,- per maand.
+1000 producten.
+
+$99.99,- per maand. 
+5000 producten.
+</td>
+<td> 
+Nog geen SAP koppeling,
+<a href="http://www.slyncy.com/integration/3dcart-to-sap">Geen SAP koppeling</a>
+
+reorder & email uiterlijk aanpassen,
+<a href="http://help.3dcart.com/Getting_Started/3dCart_Features.htm">Reorder koppeling</a>
+</td>
+<td> 
+Mogelijkheden om HTML en CSS te schrijven voor websites, dit zorgt voor meer vrijheid in het design.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> fortune3 </td>
+<td> X </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$69.95,- per maand.
+1000 producten.
+
+$99.95,- per maand. 
+10.000 producten.
+</td>
+<td> 
+Lijst met features,
+<a href="http://www.fortune3.com/en/shopping_cart_features.shtml">Features</a>
+</td>
+<td> 
+Maakt gebruik van een WYSIWYG HTML editor. Dit zorgt ervoor dat bepaalde attributen al gekoppeld worden aan de content, zonder dat je deze telkens opnieuw moet schrijven. 
+
+Reorder mogelijkheden beschreven onder customer tools bij features.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> netsuite </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> X </td>
+<td> Staat niet op de site hoe duur het is. </td>
+<td> 
+SAP,
+<a href="http://www.netsuite.com/portal/landing/oneworld-for-sap.shtml">SAP koppeling</a>
+</td>
+<td> 
+Mogelijkheden om invoices te creëren, dus kan recorders mogelijk maken. 
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> squarespace </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> X </td>
+<td> 
+$16,- per maand.
+
+$24,- per maand. 
+onbeperkte producten.
+</td>
+<td> 
+SAP koppeling,
+<a href="http://emergys.squarespace.com/saperp/">SAP koppeling</a>
+
+voorbeeld shop,
+<a href="http://everytrueson.squarespace.com/">Voorbeeld shop</a>
+</td>
+<td> 
+Gebruikt een CMS om de pagina's te bouwen. Het is mogelijk om HTML en CSS te schrijven.
+
+Multi platform compatibel. 
+
+Onbeperkt developer account.
+
+Heeft alleen Stripe als betaling mogelijkheid.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> corecommerce </td>
+<td> X </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> 
+$69,99,- per maand.
+1500 producten.
+
+
+$109,99,- per maand. 
+10.000 producten.
+</td>
+<td> 
+Nog geen SAP koppeling,
+<a href="http://www.slyncy.com/integration/corecommerce-to-sap">Geen SAP koppeling</a>
+
+Klanten kunnen oude orders terug zien. creëert wel mogelijkheden tot reoder,
+<a href="http://www.corecommerce.com/full-feature-list">Reorder koppeling</a>
+onder customer tools(bullet 6).
+</td>
+<td> 
+Alternatief van shopify. 
+
+Mogelijkheden om HTML en CSS te schrijven voor websites, dit zorgt voor meer vrijheid in het design. Maakt gebruik van een WYSIWYG HTML editor. 
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> lemonstand </td>
+<td> √ </td>
+<td> X </td>
+<td> √ </td>
+<td> X </td>
+<td>
+$499,- eenmalig.
+Alleen betalen met paypal en credit card.
+</td>
+<td> 
+Ideal,
+<a href="http://lemonstand.com/marketplace/module/idealpaymentgateway/">Ideal koppeling</a>
+
+Nog geen SAP koppeling,
+<a href="https://lemonstand.com/marketplace/ideas/details/60/">Geen SAP koppeling</a>
+</td>
+<td> 
+Werkt met een PHP/MySQL MVC framework. 
+
+Het is ook mogelijk om de HTML en CSS te schrijven.
+
+hanteert een WYSIWYG HTML editor. 
+
+Je betaald mogelijk voor de demo.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> volusion </td>
+<td> X </td>
+<td> √ </td>
+<td> ? </td>
+<td> X </td>
+<td> 
+$65,- per maand.
+100 producten.
+
+$125,- per maand. 
+5000 producten.
+</td>
+<td> 
+SAP koppeling,
+<a href="http://www.youtube.com/watch?v=DTn-Jsikwak">SAP koppeling</a>
+</td>
+<td> 
+Er bestaat een betaling koppeling met skrill(vervanger voor ideal), maar dit werkt niet perfect. 
+
+Keuze uit veel templates. 
+
+Er bestaat geen mogelijkheid om een goed overzicht te krijgen v.d. templates. Hieruit kan ik dus niet inzien hoe die templates er per pagina uit zien.
+</td>
+</tr>
+<tr>
+<td> bigcommerce </td>
+<td> X </td>
+<td> √ </td>
+<td> √ </td>
+<td> ? </td>
+<td> 
+$79.95,- per maand.
+1000 producten.
+
+$149.95,- per maand. 
+onbeperkte producten
+</td>
+<td> 
+SAP,
+<a href="http://www.ebridgeconnections.com/webstore/bigcommerce.html">SAP koppeling</a>
+
+Er zijn problemen ondervonden met reoders,
+<a href="http://forum.bigcommerce.com/f8/a-reorder-feature-that-works-6082/">Mogelijke reoder koppeling</a>
+</td>
+<td> 
+Mogelijkheden om HTML en CSS te schrijven voor websites, dit zorgt voor meer vrijheid in het design. Dus reorder zou wel moeten kunnen.
+</td>
+</tr>
+<tr>
+<td> pinnaclecart </td>
+<td> X </td>
+<td> X </td>
+<td> √ </td>
+<td> ? </td>
+<td> 
+$60,- per maand.
+onbeperkte producten.
+400 MB ruimte
+
+$95,- per maand. 
+onbeperkte producten.
+1.2 GB ruimte.
+</td>
+<td>
+Geen ideal koppelingen, kan wel via moneybookers,
+<a href="http://www.pinnaclecart.com/supported-payment-gateways/">Geen ideal koppeling</a>
+
+Waarschijnlijk zijn er mogelijkheden tot reorders. Wel is via het filmpje te zien dat er een aantal producten ingevoerd kan worden, dus multi order is mogelijk,
+<a href="http://www.youtube.com/watch?v=ckZfA7z5SoI">Mogelijke reoder koppeling</a>
+</td>
+<td>
+Maakt gebruik van een WYSIWYG HTML editor. 
+
+Er bestaan mogelijkheid voor eigen aanpassingen in de code. Is zeer gelimiteerd. 
+
+Er bestaan mogelijkheden om pinnaclecart te betalen voor een dienst. Zij bouwen dan de webshop naar wens. Dit levert echter wel extra kosten op.
+</td>
+</tr>
+<tr>
+<td> lightcms </td>
+<td> X </td>
+<td> ? </td>
+<td> √ </td>
+<td> X </td>
+<td> 
+$49,- per maand.
+2.500 producten.
+
+$69,- per maand. 
+10.000 producten.
+</td>
+<td>
+Mogelijke SAP integratie, 
+<a href="http://jon.drupalgardens.com/content/ecommerce-integration-sap">SAP koppeling</a>
+</td>
+<td> 
+Mogelijkheden om HTML en CSS te schrijven voor websites, dit zorgt voor meer vrijheid in het design. 
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> goodsie </td>
+<td> X </td>
+<td> X </td>
+<td> √ </td>
+<td> X </td>
+<td> 
+$15,- per maand.
+onbeperkte producten.
+
+$40,- per maand. 
+onbeperkte producten.
+meer mogelijkheden.
+</td>
+<td> 
+Prijs,
+<a href="http://goodsie.com/pricing">Prijs informatie</a>
+</td>
+<td> 
+Bied te weinig mogelijkheden naar onze wensen.
+
+Multiorder is mogelijk op de productpagina, dus kan dan ook op andere pagina's geïntegreerd worden.
+</td>
+</tr>
+<tr>
+<td> spreecommerce </td>
+<td> X </td>
+<td> X </td>
+<td> ? </td>
+<td> X </td>
+<td> 
+$19,99,- per maand.
+starter pakket
+
+$29,99,- per maand. 
+pro pakket.
+</td>
+<td> 
+prijzenlijst,
+<a href="http://spreecommerce.com/products/payment_processing">Prijs informatie</a>
+
+Extensies,
+<a href="http://spreecommerce.com/extensions">Lijst met extensies</a>
+</td>
+<td> 
+Werkt op ruby en rails framework. Bied wel vrijheid met ontwerpen.
+
+Multiorder wel mogelijk in de winkelmand.  echter niet op de productpagina. 
+
+Er zijn wel mogelijkheden om nieuwe betaling mogelijkheden te integreren. Heb echter niks gevonden over ideal.
+
+Open-source.
+</td>
+</tr>
+</table>
+
+
